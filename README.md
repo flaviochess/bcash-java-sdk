@@ -1,6 +1,18 @@
 # bcash-java-sdk
 Bcash SDK Checkout for JAVA
 
+####[Utilizando as credenciais](#utilizando-as-credenciais-1)
+####[Utilizando o Sandbox](#utilizando-o-sandbox-1)
+####[Criando uma transação de boleto](#criando-uma-transação-de-boleto-1)
+####[Comprando com cartão de crédito](#comprando-com-cartão-de-crédito-1)
+####[Enviando softDescriptor em uma compra com cartão de crédito](#enviando-softdescriptor-em-uma-compra-com-cartão-de-crédito-1)
+####[Adicionando comissionamento (Transações dependentes)](#adicionando-comissionamento-transações-dependentes-1)
+####[Cancelando uma transação](#cancelando-uma-transação-1)
+####[Consultando os dados de uma transação](#consultando-os-dados-de-uma-transação-1)
+####[Atualizando o status do pedido](#atualizando-o-status-do-pedido-1)
+####[Simulando uma notificação](#simulando-uma-notificação-1)
+####[Calculando parcelamento](#calculando-parcelamento-1)
+
 ### Utilizando as credenciais
 1. Você pode configurar as credenciais da sua loja em um arquivo properties (bcash.properties) disponível no seu classpath com as seguintes propriedades:
 ```java
